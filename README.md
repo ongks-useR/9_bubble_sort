@@ -6,3 +6,6 @@ Project reference page => https://www.theodinproject.com/lessons/ruby-bubble-sor
 Example:
 > bubble_sort([4,3,78,2,0,2])
 => [0,2,2,3,4,78]
+
+`bubble_sort.rb` => First solution
+`bubble_sort_v2.rb` => An alternative
